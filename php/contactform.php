@@ -1,7 +1,7 @@
 <?php
 
 // basic settings section
-$sendto = 'webdesign@shegy.pl';
+$sendto = 'info@fbacks.com';
 $subject = 'Spot Landing Page message';
 $iserrormessage = 'Your message has not been sent due to following errors:';
 $thanks = "Thanks for your message! We'll contact you back as soon as it is possible.";
